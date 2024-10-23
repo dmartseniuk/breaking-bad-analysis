@@ -1,0 +1,14 @@
+# Ignore virtual environment folders
+.conda/
+.venv/
+env/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+*.DS_Store
